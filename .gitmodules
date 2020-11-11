@@ -2,71 +2,89 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "babynames"]
 	path = babynames
 	url = https://github.com/hadley/babynames
 	shallow = true
+	branch = HEAD
 [submodule "crantastic"]
 	path = crantastic
 	url = https://github.com/hadley/crantastic
 	shallow = true
+	branch = HEAD
 [submodule "cubelyr"]
 	path = cubelyr
 	url = https://github.com/hadley/cubelyr
 	shallow = true
+	branch = HEAD
 [submodule "fueleconomy"]
 	path = fueleconomy
 	url = https://github.com/hadley/fueleconomy
 	shallow = true
+	branch = HEAD
 [submodule "highlight"]
 	path = highlight
 	url = https://github.com/hadley/highlight
 	shallow = true
+	branch = HEAD
 [submodule "meifly"]
 	path = meifly
 	url = https://github.com/hadley/meifly
 	shallow = true
+	branch = HEAD
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/hadley/memoise
 	shallow = true
+	branch = HEAD
 [submodule "nasaweather"]
 	path = nasaweather
 	url = https://github.com/hadley/nasaweather
 	shallow = true
+	branch = HEAD
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/hadley/nycflights13
 	shallow = true
+	branch = HEAD
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/hadley/plyr
 	shallow = true
+	branch = HEAD
 [submodule "productplots"]
 	path = productplots
 	url = https://github.com/hadley/productplots
 	shallow = true
+	branch = HEAD
 [submodule "profr"]
 	path = profr
 	url = https://github.com/hadley/profr
 	shallow = true
+	branch = HEAD
 [submodule "proto"]
 	path = proto
 	url = https://github.com/hadley/proto
 	shallow = true
+	branch = HEAD
 [submodule "pryr"]
 	path = pryr
 	url = https://github.com/hadley/pryr
 	shallow = true
+	branch = HEAD
 [submodule "purrrlyr"]
 	path = purrrlyr
 	url = https://github.com/hadley/purrrlyr
 	shallow = true
+	branch = HEAD
 [submodule "rappdirs"]
 	path = rappdirs
 	url = https://github.com/hadley/rappdirs
 	shallow = true
+	branch = HEAD
 [submodule "reshape2"]
 	path = reshape2
 	url = https://github.com/hadley/reshape
 	shallow = true
+	branch = HEAD
