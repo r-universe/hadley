@@ -27,10 +27,6 @@
 	path = meifly
 	url = https://github.com/hadley/meifly
 	shallow = true
-[submodule "memoise"]
-	path = memoise
-	url = https://github.com/hadley/memoise
-	shallow = true
 [submodule "nasaweather"]
 	path = nasaweather
 	url = https://github.com/hadley/nasaweather
