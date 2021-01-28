@@ -59,10 +59,6 @@
 	path = purrrlyr
 	url = https://github.com/hadley/purrrlyr
 	shallow = true
-[submodule "rappdirs"]
-	path = rappdirs
-	url = https://github.com/hadley/rappdirs
-	shallow = true
 [submodule "reshape2"]
 	path = reshape2
 	url = https://github.com/hadley/reshape
