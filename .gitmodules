@@ -38,11 +38,6 @@
 	url = https://github.com/hadley/nasaweather
 	shallow = true
 	registered = true
-[submodule "nycflights13"]
-	path = nycflights13
-	url = https://github.com/hadley/nycflights13
-	shallow = true
-	registered = true
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/hadley/plyr
