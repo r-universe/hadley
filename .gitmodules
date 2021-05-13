@@ -8,82 +8,68 @@
 	url = https://github.com/hadley/babynames
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "crantastic"]
 	path = crantastic
 	url = https://github.com/hadley/crantastic
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cubelyr"]
 	path = cubelyr
 	url = https://github.com/hadley/cubelyr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "fueleconomy"]
 	path = fueleconomy
 	url = https://github.com/hadley/fueleconomy
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "highlight"]
 	path = highlight
 	url = https://github.com/hadley/highlight
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "meifly"]
 	path = meifly
 	url = https://github.com/hadley/meifly
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "nasaweather"]
 	path = nasaweather
 	url = https://github.com/hadley/nasaweather
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/hadley/plyr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "productplots"]
 	path = productplots
 	url = https://github.com/hadley/productplots
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "profr"]
 	path = profr
 	url = https://github.com/hadley/profr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "proto"]
 	path = proto
 	url = https://github.com/hadley/proto
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pryr"]
 	path = pryr
 	url = https://github.com/hadley/pryr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "purrrlyr"]
 	path = purrrlyr
 	url = https://github.com/hadley/purrrlyr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "reshape2"]
 	path = reshape2
 	url = https://github.com/hadley/reshape
 	shallow = true
 	registered = true
-	oncran = true
