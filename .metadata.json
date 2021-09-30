@@ -4,19 +4,11 @@
     "oncran": true
   },
   {
-    "package": "crantastic",
-    "oncran": true
-  },
-  {
     "package": "cubelyr",
     "oncran": true
   },
   {
     "package": "fueleconomy",
-    "oncran": true
-  },
-  {
-    "package": "highlight",
     "oncran": true
   },
   {
@@ -37,10 +29,6 @@
   },
   {
     "package": "profr",
-    "oncran": true
-  },
-  {
-    "package": "proto",
     "oncran": true
   },
   {
