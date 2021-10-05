@@ -8,11 +8,6 @@
 	url = https://github.com/hadley/babynames
 	shallow = true
 	registered = true
-[submodule "crantastic"]
-	path = crantastic
-	url = https://github.com/hadley/crantastic
-	shallow = true
-	registered = true
 [submodule "cubelyr"]
 	path = cubelyr
 	url = https://github.com/hadley/cubelyr
@@ -21,11 +16,6 @@
 [submodule "fueleconomy"]
 	path = fueleconomy
 	url = https://github.com/hadley/fueleconomy
-	shallow = true
-	registered = true
-[submodule "highlight"]
-	path = highlight
-	url = https://github.com/hadley/highlight
 	shallow = true
 	registered = true
 [submodule "meifly"]
@@ -51,11 +41,6 @@
 [submodule "profr"]
 	path = profr
 	url = https://github.com/hadley/profr
-	shallow = true
-	registered = true
-[submodule "proto"]
-	path = proto
-	url = https://github.com/hadley/proto
 	shallow = true
 	registered = true
 [submodule "pryr"]
