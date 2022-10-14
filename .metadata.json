@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "proto",
+    "oncran": true
+  },
+  {
     "package": "pryr",
     "oncran": true
   },

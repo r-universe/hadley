@@ -43,6 +43,11 @@
 	url = https://github.com/hadley/profr
 	shallow = true
 	registered = true
+[submodule "proto"]
+	path = proto
+	url = https://github.com/hadley/proto
+	shallow = true
+	registered = true
 [submodule "pryr"]
 	path = pryr
 	url = https://github.com/hadley/pryr
