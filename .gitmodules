@@ -18,6 +18,11 @@
 	url = https://github.com/hadley/fueleconomy
 	shallow = true
 	registered = true
+[submodule "highlight"]
+	path = highlight
+	url = https://github.com/hadley/highlight
+	shallow = true
+	registered = true
 [submodule "meifly"]
 	path = meifly
 	url = https://github.com/hadley/meifly

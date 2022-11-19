@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "highlight",
+    "oncran": true
+  },
+  {
     "package": "meifly",
     "oncran": true
   },
