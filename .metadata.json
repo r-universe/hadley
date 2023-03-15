@@ -1,6 +1,14 @@
 [
   {
+    "package": "assertthat",
+    "oncran": true
+  },
+  {
     "package": "babynames",
+    "oncran": true
+  },
+  {
+    "package": "classifly",
     "oncran": true
   },
   {
@@ -12,7 +20,23 @@
     "oncran": true
   },
   {
+    "package": "ggplot2movies",
+    "oncran": true
+  },
+  {
+    "package": "hflights",
+    "oncran": true
+  },
+  {
     "package": "highlight",
+    "oncran": true
+  },
+  {
+    "package": "lazyeval",
+    "oncran": true
+  },
+  {
+    "package": "lvplot",
     "oncran": true
   },
   {

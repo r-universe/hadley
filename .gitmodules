@@ -3,9 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "assertthat"]
+	path = assertthat
+	url = https://github.com/hadley/assertthat
+	shallow = true
+	registered = true
 [submodule "babynames"]
 	path = babynames
 	url = https://github.com/hadley/babynames
+	shallow = true
+	registered = true
+[submodule "classifly"]
+	path = classifly
+	url = https://github.com/hadley/classifly
 	shallow = true
 	registered = true
 [submodule "cubelyr"]
@@ -18,9 +28,29 @@
 	url = https://github.com/hadley/fueleconomy
 	shallow = true
 	registered = true
+[submodule "ggplot2movies"]
+	path = ggplot2movies
+	url = https://github.com/hadley/ggplot2movies
+	shallow = true
+	registered = true
+[submodule "hflights"]
+	path = hflights
+	url = https://github.com/hadley/hflights
+	shallow = true
+	registered = true
 [submodule "highlight"]
 	path = highlight
 	url = https://github.com/hadley/highlight
+	shallow = true
+	registered = true
+[submodule "lazyeval"]
+	path = lazyeval
+	url = https://github.com/hadley/lazyeval
+	shallow = true
+	registered = true
+[submodule "lvplot"]
+	path = lvplot
+	url = https://github.com/hadley/lvplot
 	shallow = true
 	registered = true
 [submodule "meifly"]
