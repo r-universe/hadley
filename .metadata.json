@@ -1,14 +1,6 @@
 [
   {
-    "package": "babynames",
-    "oncran": true
-  },
-  {
-    "package": "cubelyr",
-    "oncran": true
-  },
-  {
-    "package": "fueleconomy",
+    "package": "pryr",
     "oncran": true
   },
   {
@@ -16,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "meifly",
-    "oncran": true
-  },
-  {
-    "package": "nasaweather",
-    "oncran": true
-  },
-  {
-    "package": "plyr",
+    "package": "fueleconomy",
     "oncran": true
   },
   {
@@ -32,7 +16,11 @@
     "oncran": true
   },
   {
-    "package": "profr",
+    "package": "plyr",
+    "oncran": true
+  },
+  {
+    "package": "babynames",
     "oncran": true
   },
   {
@@ -40,7 +28,11 @@
     "oncran": true
   },
   {
-    "package": "pryr",
+    "package": "cubelyr",
+    "oncran": true
+  },
+  {
+    "package": "profr",
     "oncran": true
   },
   {
@@ -49,6 +41,14 @@
   },
   {
     "package": "reshape2",
+    "oncran": true
+  },
+  {
+    "package": "nasaweather",
+    "oncran": true
+  },
+  {
+    "package": "meifly",
     "oncran": true
   }
 ]
