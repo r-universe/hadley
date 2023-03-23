@@ -23,6 +23,11 @@
 	url = https://github.com/hadley/cubelyr
 	shallow = true
 	registered = true
+[submodule "feather"]
+	path = feather
+	url = https://github.com/cran/feather
+	shallow = true
+	registered = true
 [submodule "fueleconomy"]
 	path = fueleconomy
 	url = https://github.com/hadley/fueleconomy
@@ -91,6 +96,11 @@
 [submodule "purrrlyr"]
 	path = purrrlyr
 	url = https://github.com/hadley/purrrlyr
+	shallow = true
+	registered = true
+[submodule "reshape"]
+	path = reshape
+	url = https://github.com/cran/reshape
 	shallow = true
 	registered = true
 [submodule "reshape2"]
