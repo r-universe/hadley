@@ -23,6 +23,9 @@
 [submodule "ggplot2movies"]
 	path = ggplot2movies
 	url = https://github.com/hadley/ggplot2movies
+[submodule "ggvis"]
+	path = ggvis
+	url = https://github.com/cran/ggvis
 [submodule "hflights"]
 	path = hflights
 	url = https://github.com/hadley/hflights
