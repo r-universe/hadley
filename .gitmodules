@@ -14,9 +14,6 @@
 [submodule "cubelyr"]
 	path = cubelyr
 	url = https://github.com/hadley/cubelyr
-[submodule "feather"]
-	path = feather
-	url = https://github.com/cran/feather
 [submodule "fueleconomy"]
 	path = fueleconomy
 	url = https://github.com/hadley/fueleconomy
