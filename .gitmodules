@@ -8,9 +8,6 @@
 [submodule "babynames"]
 	path = babynames
 	url = https://github.com/hadley/babynames
-[submodule "classifly"]
-	path = classifly
-	url = https://github.com/hadley/classifly
 [submodule "cubelyr"]
 	path = cubelyr
 	url = https://github.com/hadley/cubelyr
